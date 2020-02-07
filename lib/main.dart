@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.orange,
       ),
-      home: MyHomePage(title: 'cl-AIR-ity'),
+      home: MyHomePage(title: 'cl-AIRity'),
     );
   }
 }
