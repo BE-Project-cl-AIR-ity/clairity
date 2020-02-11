@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Clairity hai mera namm'),
+      home: MyHomePage(title: 'Clairity hai mera namm nahi toh!!!!!!!!!!!!!!'),
     );
   }
 }
