@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953347964642",
+    "firebase_url": "https://cl-air-ity-89f3e.firebaseio.com",
+    "project_id": "cl-air-ity-89f3e",
+    "storage_bucket": "cl-air-ity-89f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953347964642:android:80961508f4109f3c3b28bb",
+        "android_client_info": {
+          "package_name": "com.clairity.login_clairity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953347964642-98mgpsjrnc0btho88iuhspvgcsqib0ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuLRWtx9ENKhE-XZYDN-iq-TxOxvXN0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953347964642-98mgpsjrnc0btho88iuhspvgcsqib0ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
